@@ -1,6 +1,6 @@
-# 📬 Telegram Bot: [Bot name]
+# 📬 Telegram Bot: [Weatherly]
 
-A simple Telegram bot written in Node.js using [Telegraf.js/node-telegram-bot-api].
+A simple Telegram bot written in Node.js using [node-telegram-bot-api].
 
 This bot does [sends weather report].
 
